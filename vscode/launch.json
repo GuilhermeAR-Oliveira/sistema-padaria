@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Padaria",
+            "request": "launch",
+            "mainClass": "padaria.Padaria",
+            "vmArgs": "--module-path /home/guilherme/Programs/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml",
+            "projectName": "sistema-padaria_8a854d8a"
+        }
+    ]
+}
